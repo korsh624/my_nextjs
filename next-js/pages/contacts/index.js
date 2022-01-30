@@ -1,4 +1,7 @@
+import Heading from "../components/Heading";
 const Contacts = ()=>(
-    <h1>Contacts list</h1>
-);
+    <>
+    <Heading text='Contacts list'/>
+    </>
+        );
 export default Contacts;
