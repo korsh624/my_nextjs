@@ -1,5 +1,5 @@
 <component name="common.page.document">
     <div class="container">
-        Main Page
+        Main Page OKgit
     </div>
 </component>
