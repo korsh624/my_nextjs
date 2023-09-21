@@ -1,0 +1,3 @@
+[submodule "classes/Core"]
+	path = classes/Core
+	url = https://github.com/rescap33/basic-web-core
